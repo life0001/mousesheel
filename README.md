@@ -1,6 +1,6 @@
 # mousesheel
 鼠标滚轮事件
-<pre>
+<code>
     eval(document.onmousewheel=wheel;
     if(document.addEventListener) document.addEventListener('DOMMouseScroll',wheel,false);  //Firefox 专用事件DOMMouseScroll
     function wheel(event){
@@ -19,4 +19,4 @@
             }
         }
     })
-</pre>
+</code>
