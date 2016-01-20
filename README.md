@@ -1,4 +1,4 @@
-# mousesheel
+# mousewheel
 鼠标滚轮事件
 <pre>
     document.onmousewheel=wheel;
